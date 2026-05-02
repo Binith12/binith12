@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Bintih Hegde, I have been a software develoepr for quite sometime. Mostly worked on .net, DevOps and a bit of Cloud.
+
+Currently working towards being an AI engineer
+
 <!--
 **Binith12/binith12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
