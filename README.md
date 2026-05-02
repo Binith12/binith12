@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Bintih Hegde, I have been a software develoepr for quite sometime. Mostly worked on .net, DevOps and a bit of Cloud.
+I am Binith Hegde, I have been a software develoepr for quite sometime. Mostly worked on .net, DevOps and a bit of Cloud.
 
 Currently working towards being an AI engineer
 
